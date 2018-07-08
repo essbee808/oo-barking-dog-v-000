@@ -1,3 +1,3 @@
 class Dog
-  def 
+  def name=(name_new)
 end
